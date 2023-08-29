@@ -5,7 +5,10 @@ public class Loginpage {
 		// TODO Auto-generated method stub
 		System.out.println("This is login page code");
 		
+System.out.println("this is bug fixing code");
+System.out.println("This is login page code");
 
+System.out.println("this is bug fixing code");
 	}
 
 }
